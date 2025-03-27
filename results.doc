@@ -1,0 +1,60 @@
+<table class="texreg" style="margin: 10px auto;border-collapse: collapse;border-spacing: 0px;caption-side: bottom;color: #000000;border-top: 2px solid #000000;">
+<caption>Statistical models</caption>
+<thead>
+<tr>
+<th style="padding-left: 5px;padding-right: 5px;">&nbsp;</th>
+<th style="padding-left: 5px;padding-right: 5px;">Immigrant only</th>
+<th style="padding-left: 5px;padding-right: 5px;">Human capital</th>
+<th style="padding-left: 5px;padding-right: 5px;">Industry and occupation</th>
+<th style="padding-left: 5px;padding-right: 5px;">Geographic location</th>
+<th style="padding-left: 5px;padding-right: 5px;">All controls</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-top: 1px solid #000000;">
+<td style="padding-left: 5px;padding-right: 5px;">Established immigrant</td>
+<td style="padding-left: 5px;padding-right: 5px;">-0.0001 (0.0008)</td>
+<td style="padding-left: 5px;padding-right: 5px;">-0.0496 (0.0007)<sup>&#42;&#42;&#42;</sup></td>
+<td style="padding-left: 5px;padding-right: 5px;">0.0060 (0.0007)<sup>&#42;&#42;&#42;</sup></td>
+<td style="padding-left: 5px;padding-right: 5px;">-0.0286 (0.0008)<sup>&#42;&#42;&#42;</sup></td>
+<td style="padding-left: 5px;padding-right: 5px;">-0.0551 (0.0007)<sup>&#42;&#42;&#42;</sup></td>
+</tr>
+<tr>
+<td style="padding-left: 5px;padding-right: 5px;">Recent immigrant</td>
+<td style="padding-left: 5px;padding-right: 5px;">-0.1604 (0.0009)<sup>&#42;&#42;&#42;</sup></td>
+<td style="padding-left: 5px;padding-right: 5px;">-0.1989 (0.0008)<sup>&#42;&#42;&#42;</sup></td>
+<td style="padding-left: 5px;padding-right: 5px;">-0.0989 (0.0008)<sup>&#42;&#42;&#42;</sup></td>
+<td style="padding-left: 5px;padding-right: 5px;">-0.1752 (0.0009)<sup>&#42;&#42;&#42;</sup></td>
+<td style="padding-left: 5px;padding-right: 5px;">-0.1604 (0.0008)<sup>&#42;&#42;&#42;</sup></td>
+</tr>
+<tr style="border-top: 1px solid #000000;">
+<td style="padding-left: 5px;padding-right: 5px;">R<sup>2</sup></td>
+<td style="padding-left: 5px;padding-right: 5px;">0.0094</td>
+<td style="padding-left: 5px;padding-right: 5px;">0.2497</td>
+<td style="padding-left: 5px;padding-right: 5px;">0.3386</td>
+<td style="padding-left: 5px;padding-right: 5px;">0.0350</td>
+<td style="padding-left: 5px;padding-right: 5px;">0.3816</td>
+</tr>
+<tr>
+<td style="padding-left: 5px;padding-right: 5px;">Adj. R<sup>2</sup></td>
+<td style="padding-left: 5px;padding-right: 5px;">0.0094</td>
+<td style="padding-left: 5px;padding-right: 5px;">0.2497</td>
+<td style="padding-left: 5px;padding-right: 5px;">0.3386</td>
+<td style="padding-left: 5px;padding-right: 5px;">0.0350</td>
+<td style="padding-left: 5px;padding-right: 5px;">0.3816</td>
+</tr>
+<tr style="border-bottom: 2px solid #000000;">
+<td style="padding-left: 5px;padding-right: 5px;">Num. obs.</td>
+<td style="padding-left: 5px;padding-right: 5px;">3147696</td>
+<td style="padding-left: 5px;padding-right: 5px;">3147696</td>
+<td style="padding-left: 5px;padding-right: 5px;">3147696</td>
+<td style="padding-left: 5px;padding-right: 5px;">3147696</td>
+<td style="padding-left: 5px;padding-right: 5px;">3147696</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td style="font-size: 0.8em;" colspan="6"><sup>&#42;&#42;&#42;</sup>p &lt; 0.001; <sup>&#42;&#42;</sup>p &lt; 0.01; <sup>&#42;</sup>p &lt; 0.05; <sup>&middot;</sup>p &lt; 0.1</td>
+</tr>
+</tfoot>
+</table>
